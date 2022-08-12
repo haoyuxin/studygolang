@@ -1,2 +1,2 @@
-# studygoland
-goland学习过程
+# studygolang
+golang学习过程
